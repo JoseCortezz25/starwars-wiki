@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/starwars-wiki/static/css/main.6bff50a9.chunk.css",
+    "main.js": "/starwars-wiki/static/js/main.2656934b.chunk.js",
+    "main.js.map": "/starwars-wiki/static/js/main.2656934b.chunk.js.map",
+    "runtime-main.js": "/starwars-wiki/static/js/runtime-main.3198c2d7.js",
+    "runtime-main.js.map": "/starwars-wiki/static/js/runtime-main.3198c2d7.js.map",
+    "static/js/2.bdfed3eb.chunk.js": "/starwars-wiki/static/js/2.bdfed3eb.chunk.js",
+    "static/js/2.bdfed3eb.chunk.js.map": "/starwars-wiki/static/js/2.bdfed3eb.chunk.js.map",
+    "static/js/3.91b18cc4.chunk.js": "/starwars-wiki/static/js/3.91b18cc4.chunk.js",
+    "static/js/3.91b18cc4.chunk.js.map": "/starwars-wiki/static/js/3.91b18cc4.chunk.js.map",
+    "index.html": "/starwars-wiki/index.html",
+    "static/css/main.6bff50a9.chunk.css.map": "/starwars-wiki/static/css/main.6bff50a9.chunk.css.map",
+    "static/js/2.bdfed3eb.chunk.js.LICENSE.txt": "/starwars-wiki/static/js/2.bdfed3eb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/starwars-wiki/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3198c2d7.js",
+    "static/js/2.bdfed3eb.chunk.js",
+    "static/css/main.6bff50a9.chunk.css",
+    "static/js/main.2656934b.chunk.js"
+  ]
+}
