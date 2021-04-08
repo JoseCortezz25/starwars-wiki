@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300&display=swap');
+
+.title-h3{
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    font-size: 2.4rem;
+}
+.container-buttons{
+    width: 80%;
+    margin: auto;
+    margin-top: 3.4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

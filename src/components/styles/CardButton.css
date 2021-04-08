@@ -1,0 +1,35 @@
+.card {
+  width: 40%;
+  height: 50px;
+  border: 1px solid #000;
+  margin-bottom: 20px;
+  /*padding: 10px;
+  */font-size: 1.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  box-shadow: 8px 8px 0px 0px #000000;
+  transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  cursor: pointer;
+}
+.card:hover{
+    box-shadow: 15px 15px 0px 0px #000000;
+}
+
+.card p {
+  margin: 0px;
+}
+
+.title-card {
+  font-size: 1.8rem;
+}
+
+.link{
+  color: #000;
+  text-decoration: none;
+}

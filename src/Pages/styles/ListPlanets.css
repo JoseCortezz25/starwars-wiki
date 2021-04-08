@@ -1,0 +1,13 @@
+li{
+    list-style: none;
+}
+
+.container-general{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
+
